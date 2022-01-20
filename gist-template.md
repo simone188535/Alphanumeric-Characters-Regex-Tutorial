@@ -82,14 +82,3 @@ An example of range bracket expressions is
 If you have any questions about the repo, open
 an issue or contact me directly at simone.anthony1@yahoo.com. You
 can find more of me at [simone188535](https://github.com/simone188535)
-
-
-<!-- 
-https://digitalfortress.tech/js/top-15-commonly-used-regex/
-
-https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
-
-https://www.regexpal.com/?fam=104025 
-
-https://javascript.info/regular-expressions
--->
